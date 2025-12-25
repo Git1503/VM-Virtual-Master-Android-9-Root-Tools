@@ -1,23 +1,15 @@
 # VM-Virtual-Master-Android-9-RootTools
 
-Rooting Via Virtual Master
+# VM-Virtual-Master-Android-9-RootTools
 
+Rooting Via Virtual Master 
 Install Virtual Master through Playstore
+For root Install only Android 9 VM in Virtual Master 
 
-Install only Android 9 VM in Virtual Master for Rooting.
-
-Import Magisk latest
+We should import Magisk but not directly install magisk
 Now import lsposedmodule.zip from magisk module 
+Now install Lsposed 1.9.2 Apk 
 
-Install Xposed Framework 
+
 Import Root Checker and check for Root
 Grant Superuser permissions for apps
-
-
-Apps Installation on Root
-Xposed Framework
-Magisk
-SuperSU
-Root Checker 
-Root Essentials 
-Xplorer 
