@@ -4,7 +4,7 @@ Rooting Via Virtual Master
 
 Install Virtual Master through Playstore
 
-For root Install only Android 9 VM in Virtual Master 
+Install only Android 9 VM in Virtual Master for Rooting.
 
 Import Magisk latest
 Now import lsposedmodule.zip from magisk module 
